@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Prints if the number is positive,zero or negative
- * Return 0 (success)
+ * maini - Prints if the number is positive,zero or negative
+ * Return: 0 (success)
  */
 
 int main(void)

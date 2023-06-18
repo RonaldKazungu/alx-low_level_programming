@@ -1,6 +1,10 @@
 #include <stdlib.h>
+
 #include <time.h>
+
 #include <stdio.h>
+
+
 /**
  * main - Prints text according number
  * Return: Always (Success)

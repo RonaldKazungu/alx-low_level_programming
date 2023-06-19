@@ -1,16 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
  * main - a program that prints all possible combinations
  * Return: 0 (Success)
  */
-
 int main(void)
-
 {
-
 	int d;
 
 	for (d = '0'; d <= '9'; d++)

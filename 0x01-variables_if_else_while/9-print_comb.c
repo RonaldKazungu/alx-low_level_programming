@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - A program that prints all possible combinations
+ * main - prints all possible combinations
  * Return: 0 (Success)
  */
 int main(void)

@@ -4,7 +4,7 @@
 
 /**
  * main - a program that prints all possible combinations
- * Return 0 (Success)
+ * Return: 0 (Success)
  */
 
 int main(void)
@@ -21,7 +21,7 @@ int main(void)
 	putchar(' ');
 	}
 	putchar('\n');
-	return 0;
+	return (0);
 }
 
 

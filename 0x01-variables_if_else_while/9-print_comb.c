@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - Entry point
- * Return Always 0 (Success)
+ * main - a program that prints all possible combinations of single-digit numbers
+ * Return 0 (Success)
  */
 
 int main(void)

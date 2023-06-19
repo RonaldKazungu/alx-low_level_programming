@@ -1,20 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
  * main - prints all possible different combinations of two digits
  * Return: 0 Ssuccess)
  */
-
 int main(void)
 {
-
 	int d, p;
 
 	for (d = '0'; d <= '9'; d++)
 	{
-	
 	for (p = d + 1; p <= '9'; p++)
 	{
 	if (p != d)
